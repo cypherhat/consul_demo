@@ -1,8 +1,8 @@
 {
     "bootstrap" : true,
     "server" : true,
-    "datacenter" : "aws-tutorial-series",
-    "data_dir" : "/tmp/consul",
+    "datacenter" : "datacenter",
+    "data_dir" : "/data/consul",
     "ui_dir" : "/root/dist",
     "encrypt" : "__ENCRYPT__",
     "log_level" : "INFO",
